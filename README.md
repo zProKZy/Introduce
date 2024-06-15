@@ -13,8 +13,8 @@
 
 - ✨ I'm studying and coding.
 - 💻 I’m currently learning HTML, CSS3 and JavaScript.
-- 💻 Visit my [Portfolio](https://monkeytype.com/profile/zProKZy) for more details about me.
-  I'll add more
+- 💻 Visit my [Monkeytype](https://monkeytype.com/profile/zProKZy) for more details about me.
+  I'll add more soon...
 <!--End Intro-->
 <br />
 
