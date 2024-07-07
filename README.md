@@ -5,14 +5,14 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! 
-*I'm Marsho junier Full-stack dev*
+*I'm Marsho junier Game dev*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Server Minecraft dev and Mythicmobs scripter, and I started studying Full-stack Developer </p>
+<p align="left">I used to minecraft server dev and Mythicmobs scripter, and now I started studying Game Developer </p>
 
 - ✨ I'm studying and coding.
-- 💻 I’m currently learning HTML, CSS3 and JavaScript.
+- 💻 I’m currently learning C# to be Gamedev.
 - 💻 Visit my [Monkeytype](https://monkeytype.com/profile/zProKZy) for more details about me.
   I'll add more soon...
 <!--End Intro-->
@@ -21,7 +21,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=py,vscode,cs,&perline=10"  />
+  <img width="500px" src="https://skillicons.dev/icons?i=py,vscode,cs,&perline=10"  />
 </p>
 <br />
 
