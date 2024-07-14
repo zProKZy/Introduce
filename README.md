@@ -9,7 +9,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I used to minecraft server dev and Mythicmobs scripter, and now I started studying Game Developer </p>
+<p align="left">I used to minecraft server dev and Mythicmobs scripter, and now I started studying to be Game Developer </p>
 
 - ✨ I'm studying and coding.
 - 💻 I’m currently learning C# to be Gamedev.
