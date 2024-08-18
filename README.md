@@ -5,14 +5,14 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! 
-*I'm Marsho junier Game dev*
+*I'm Marsho, liltle software engineering*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I used to minecraft server dev and Mythicmobs scripter, and now I started studying to be Game Developer </p>
+<p align="left">I used to minecraft server dev and Mythicmobs scripter, and now I started studying to be Game Developer or anything else. </p>
 
 - ✨ I'm studying and coding.
-- 💻 I’m currently learning C# to be Gamedev.
+- 💻 I’m currently learning C# to be Gamedev anc C lang.
 - 💻 Visit my [Monkeytype](https://monkeytype.com/profile/zProKZy) for more details about me.
   I'll add more soon...
 <!--End Intro-->
