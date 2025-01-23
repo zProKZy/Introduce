@@ -21,7 +21,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=c,vscode,cs,&perline=10"  />
+  <img width="50px" src="https://skillicons.dev/icons?i=c,cs,vscode,&perline=10"  />
 </p>
 <br />
 
