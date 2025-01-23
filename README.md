@@ -1,8 +1,3 @@
-<!--Night Owl image-->
-<div>
-  <img align="right" height="300" width="30%" src="https://i.sstatic.net/rHSeQ.gif">
-</div>
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! 
 *I'm Marsho, liltle software engineering*
@@ -19,9 +14,9 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🛠️</h2> 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=c,cs,vscode,&perline=10"  />
+  <img width="500px" src="https://skillicons.dev/icons?i=c,cs,vscode,unity,&perline=10"  />
 </p>
 <br />
 
